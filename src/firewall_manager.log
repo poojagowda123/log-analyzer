@@ -1,0 +1,6 @@
+2026-02-16 12:06:52,952 - INFO - Analyzing Threat: USB Used After Failed Logins (CRITICAL)
+2026-02-16 12:17:24,139 - INFO - Analyzing Threat: USB Used After Failed Logins (CRITICAL)
+2026-02-16 12:59:23,817 - ERROR - Failed to load profiles: Expecting ',' delimiter: line 157 column 15 (char 3474)
+2026-02-16 12:59:42,171 - INFO - Analyzing Threat: USB Used After Failed Logins (CRITICAL)
+2026-02-16 17:58:10,698 - INFO - Analyzing Threat: USB Used After Failed Logins (CRITICAL)
+2026-02-18 12:36:30,795 - ERROR - Failed to load profiles: Expecting value: line 1 column 1 (char 0)

@@ -1,0 +1,5 @@
+timestamp,event_id,event_type,vendor_id,product_id,raw_message,activity_summary,is_threat,threat_score,ip,source,mitre_technique,mitre_tactic
+2026-02-08 16:49:35,219,PnP Device Configured,06CB,00BE,"('34', 'USB\\VID_06CB&PID_00BE\\b558521fe407', '3221226341', '14', '\\Driver\\WUDFRd', '0')",USB Device Configured: Vendor 06CB Product 00BE,0,0,Local Device,usb,,
+2026-02-08 08:42:27,219,PnP Device Configured,06CB,00BE,"('34', 'USB\\VID_06CB&PID_00BE\\b558521fe407', '3221226341', '14', '\\Driver\\WUDFRd', '0')",USB Device Configured: Vendor 06CB Product 00BE,0,0,Local Device,usb,,
+2026-02-03 22:45:39,219,PnP Device Configured,06CB,00BE,"('34', 'USB\\VID_06CB&PID_00BE\\b558521fe407', '3221226341', '14', '\\Driver\\WUDFRd', '0')",USB Device Configured: Vendor 06CB Product 00BE,0,0,Local Device,usb,,
+2026-02-03 14:14:37,219,PnP Device Configured,06CB,00BE,"('34', 'USB\\VID_06CB&PID_00BE\\b558521fe407', '3221226341', '14', '\\Driver\\WUDFRd', '0')",USB Device Configured: Vendor 06CB Product 00BE,0,0,Local Device,usb,,

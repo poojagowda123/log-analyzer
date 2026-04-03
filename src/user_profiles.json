@@ -1,0 +1,68 @@
+{
+    "shrii": {
+        "seen_ips": [
+            "Unknown",
+            "127.0.0.1"
+        ],
+        "active_hours": [
+            22,
+            23,
+            11,
+            12
+        ],
+        "total_events": 4276,
+        "first_seen": "2026-02-18 12:36:30.803150",
+        "last_seen": "2026-02-18 12:37:57.672189"
+    },
+    "BOOK-ERHUGOH353$": {
+        "seen_ips": [
+            "Unknown",
+            "127.0.0.1"
+        ],
+        "active_hours": [
+            22,
+            23,
+            11,
+            12
+        ],
+        "total_events": 138,
+        "first_seen": "2026-02-18 12:36:30.923645",
+        "last_seen": "2026-02-18 12:37:57.621107"
+    },
+    "BOOK-ERHUGOH353": {
+        "seen_ips": [
+            "Unknown"
+        ],
+        "active_hours": [
+            22,
+            23,
+            11,
+            12
+        ],
+        "total_events": 2145,
+        "first_seen": "2026-02-18 12:36:31.125174",
+        "last_seen": "2026-02-18 12:37:57.677767"
+    },
+    "Users": {
+        "seen_ips": [
+            "Unknown"
+        ],
+        "active_hours": [
+            22
+        ],
+        "total_events": 1,
+        "first_seen": "2026-02-18 12:36:31.320860",
+        "last_seen": "2026-02-18 12:36:31.320866"
+    },
+    "LOCAL": {
+        "seen_ips": [
+            "Unknown"
+        ],
+        "active_hours": [
+            11
+        ],
+        "total_events": 1,
+        "first_seen": "2026-02-18 12:36:33.487529",
+        "last_seen": "2026-02-18 12:36:33.487534"
+    }
+}

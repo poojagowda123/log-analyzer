@@ -1,0 +1,69 @@
+{
+    "Lenovo": {
+        "seen_ips": [
+            "Unknown"
+        ],
+        "active_hours": [
+            11,
+            12,
+            13
+        ],
+        "total_events": 2755,
+        "first_seen": "2026-02-17 15:14:04.057125",
+        "last_seen": "2026-02-17 15:14:08.565463"
+    },
+    "MANALI-IDEAPADF$": {
+        "seen_ips": [
+            "Unknown",
+            "127.0.0.1"
+        ],
+        "active_hours": [
+            11,
+            12,
+            13
+        ],
+        "total_events": 169,
+        "first_seen": "2026-02-17 15:14:04.136320",
+        "last_seen": "2026-02-17 15:14:08.736399"
+    },
+    "MANALI-IDEAPADF": {
+        "seen_ips": [
+            "Unknown"
+        ],
+        "active_hours": [
+            11,
+            12,
+            13
+        ],
+        "total_events": 1884,
+        "first_seen": "2026-02-17 15:14:04.681361",
+        "last_seen": "2026-02-17 15:14:08.763519"
+    },
+    "manalishanbhag@outlook.com": {
+        "seen_ips": [
+            "Unknown",
+            "127.0.0.1"
+        ],
+        "active_hours": [
+            11,
+            12,
+            13
+        ],
+        "total_events": 28,
+        "first_seen": "2026-02-17 15:14:05.066567",
+        "last_seen": "2026-02-17 15:14:07.613295"
+    },
+    "LOCAL": {
+        "seen_ips": [
+            "Unknown"
+        ],
+        "active_hours": [
+            11,
+            12,
+            13
+        ],
+        "total_events": 36,
+        "first_seen": "2026-02-17 15:14:05.072100",
+        "last_seen": "2026-02-17 15:14:07.612644"
+    }
+}

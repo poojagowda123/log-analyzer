@@ -1,0 +1,16 @@
+====== Suspicious Activity Summary ======
+
+Event 1
+Type: Repeated Privilege Escalation
+Username: manalishanbhag@outlook.com
+Failed Attempts: nan
+Time: 2026-02-17 13:22:46
+---------------------------------------
+
+Event 2
+Type: Brute Force Suspected
+Username: MANALI-IDEAPADF$
+Failed Attempts: 4.0
+Time: 2026-02-17 12:17:49
+---------------------------------------
+
